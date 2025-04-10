@@ -1,4 +1,5 @@
 # Google Sheets Cheat Sheet HK
+PLEASE DOWNLOAD Google Sheet via Link Dont use xls file.   :)
 
 This repository contains a curated Google Sheets cheat sheet for data analysis, spreadsheet functions, and data visualization — with examples. It’s ideal for students, educators, and anyone working with spreadsheet-based data workflows.
 
@@ -21,10 +22,6 @@ This repository contains a curated Google Sheets cheat sheet for data analysis, 
 2. Use it as a learning tool or quick reference.
 3. Feel free to modify and adapt to your workflow.
 
-## 📄 License
 
-This project is licensed under the MIT License. See the [LICENSE](./LICENSE) file for details.
-
----
 
 Contributions welcome! If you have additions or improvements, feel free to open a pull request.
